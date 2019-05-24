@@ -78,6 +78,41 @@ Implement in Java , the 0/1 Knapsack problem using Greedy method
 
 <hr>
 
+### 7 - Djikstra.java
+From a given vertex in a weighted connected graph , find the shortest paths to other vertices using Dijkstra's Algorithm. Write the program in Java.
+
+<b>CODE : </b>https://github.com/infiniteoverflow/VTU-DAA-LAB/blob/master/Dijkstra.java
+
+<hr>
+
+### 8 - Kruskal.java
+Find Minimum Cost Spanning Tree of a given connected undirected graph using Kruskal's algorithm. Use Union-Find algorithms in your program.
+
+<b>CODE : </b>https://github.com/infiniteoverflow/VTU-DAA-LAB/blob/master/Kruskal.java
+
+<hr>
+
+### 9 - Prims.java
+Find Minimum Cost Spanning Tree of a given connected undirected graph using Prim's algorithm.
+
+<b>CODE : </b>https://github.com/infiniteoverflow/VTU-DAA-LAB/blob/master/Prims.java
+
+<hr>
+
+### 10A - Floyds.java
+Write Java program to implement All-Pairs Shortest Paths problem using Floyd's algorithm
+
+<b>CODE : </b>https://github.com/infiniteoverflow/VTU-DAA-LAB/blob/master/Floyds.java
+
+<hr>
+
+### 10B - TSP.java
+Write a Java program to implement Travelling Salesman Problem(TSP)
+
+<b>CODE : </b>https://github.com/infiniteoverflow/VTU-DAA-LAB/blob/master/TSP.java
+
+<hr>
+
 ### 11 - Subset.java
 Design and implement in Java to find a subset of a given set S = {s1,s2,...,sn} of n positive integers whose SUM is equal to a given positive integer d. Display a suitable message , if the given problem instance dosent have a solution.
 
