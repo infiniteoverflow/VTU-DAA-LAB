@@ -49,3 +49,46 @@ Write a Java program that implements a multi-thread application that has three t
 <b>CODE : </b>https://github.com/infiniteoverflow/VTU-DAA-LAB/blob/master/MultiThreading.java
 
 <hr>
+
+### 4 - QuickSort.java
+Sort a given set of n integer elements using Quick Sort method and compute its time complexity. Run the program for varied values of n>5000 and record the time taken to sort. Plot a graph of the time taken versus n on graph sheet. The elements can be read from a file or can be generated using the random number generator. Demonstrate using Java how the Divide-and-Conquer method works.
+
+<b>CODE : </b>https://github.com/infiniteoverflow/VTU-DAA-LAB/blob/master/Quicksort.java
+
+<hr>
+
+### 5 - MergeSort.java
+Sort a given set of n integer elements using Merge Sort method and compute its time complexity. Run the program for varied values of n>5000 and record the time taken to sort. Plot a graph of the time taken versus n on graph sheet. The elements can be read from a file or can be generated using the random number generator. Demonstrate using Java how the Divide-and-Conquer method works.
+
+<b>CODE : </b>https://github.com/infiniteoverflow/VTU-DAA-LAB/blob/master/Mergesort.java
+
+<hr>
+
+### 6A - KnapsackA.java
+Implement in Java, the 0/1 Knapsack problem using Dynamic Programming
+
+<b>CODE : </b>https://github.com/infiniteoverflow/VTU-DAA-LAB/blob/master/KnapsackA.java
+
+<hr>
+
+### 6B - KnapsackB.java
+Implement in Java , the 0/1 Knapsack problem using Greedy method
+
+<b>CODE : </b>https://github.com/infiniteoverflow/VTU-DAA-LAB/blob/master/KnapsackB.java
+
+<hr>
+
+### 11 - Subset.java
+Design and implement in Java to find a subset of a given set S = {s1,s2,...,sn} of n positive integers whose SUM is equal to a given positive integer d. Display a suitable message , if the given problem instance dosent have a solution.
+
+<b>CODE : </b>https://github.com/infiniteoverflow/VTU-DAA-LAB/blob/master/Subset.java
+
+<hr>
+
+### 12 - Hamiltonian.java
+Design and implement in Java to find all Hamiltonian Cycles in a connected undirected graph G of n vertices using backtracking principal
+
+<b>CODE : </b>https://github.com/infiniteoverflow/VTU-DAA-LAB/blob/master/Hamiltonian.java
+
+<hr>
+
