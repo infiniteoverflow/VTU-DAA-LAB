@@ -35,3 +35,17 @@ Write a Java class called Customer to store their name and date_of_birth. The da
 <b>CODE : </b>https://github.com/infiniteoverflow/VTU-DAA-LAB/blob/master/StringTokeniser.java
 
 <hr>
+
+### 3A - Exception.java
+Write a Java program to read two integers a and b. Compute a/b and print,when b is not zero. Raise an exception when b is equal to zero.
+
+<b>CODE : </b>https://github.com/infiniteoverflow/VTU-DAA-LAB/blob/master/Exception.java
+
+<hr>
+
+### 3B - MultiThreading.java
+Write a Java program that implements a multi-thread application that has three threads. First Thread generates a random number for every 1 second. Second thread computes the square of the number and prints. Third thread will print the value of cube of the number.
+
+<b>CODE : </b>https://github.com/infiniteoverflow/VTU-DAA-LAB/blob/master/MultiThreading.java
+
+<hr>
